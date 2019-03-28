@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml
+		INJECTED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml
+		INJECTED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml
+		INJECTED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:11:5-25:19
+	android:label
+		ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:11:45-77
+	android:allowBackup
+		ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:11:18-44
+	android:icon
+		ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:12:44-75
+	android:name
+		ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:13:9-46
+activity#se.du.jsonparsingvolley.JSONParsingActivity
+ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:16:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml
+		INJECTED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml
+		INJECTED from D:\hjo\AndroidStudio\JsonParsingVolley\app\src\main\AndroidManifest.xml

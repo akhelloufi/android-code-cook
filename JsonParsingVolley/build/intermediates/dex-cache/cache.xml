@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\hjo\AndroidStudio\JsonParsingVolley\app\libs\library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\hjo\AndroidStudio\JsonParsingVolley\app\build\intermediates\pre-dexed\debug\library-1.0.19-1a19cdfa87904838ae8d604e9dc3807c751b1641.jar" />
+    </item>
+
+</items>
