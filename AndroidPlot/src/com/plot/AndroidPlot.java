@@ -22,7 +22,7 @@ public class AndroidPlot extends Activity {
         mySimpleXYPlot = (XYPlot) findViewById(R.id.mySimpleXYPlot);
  
         // Create two arrays of y-values to plot:
-        Number[] series1Numbers = {1, 8, 5, 2, 7, 4};
+        Number[] series1Numbers = {1, 8, 5, 2, 7, 12};
         Number[] series2Numbers = {4, 6, 3, 8, 2, 10};
  
         // Turn the above arrays into XYSeries:
